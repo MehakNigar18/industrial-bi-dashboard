@@ -5,3 +5,7 @@ __pycache__/
 dbt_project/target/
 dbt_project/logs/
 *.pbix.bak
+
+target/
+dbt_packages/
+logs/
