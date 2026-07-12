@@ -1,0 +1,6 @@
+product_id,product_name,category,SKU,unit_cost,unit_price,channel,market
+1,Product-01,Software,SKU-1001,63.53,137.32,Distributor,Germany
+2,Product-02,Hardware,SKU-1002,126.38,205.13,Distributor,International
+3,Product-03,Software,SKU-1003,246.0,481.36,OEM,Germany
+4,Product-04,Software,SKU-1004,42.06,65.78,OEM,International
+5,Product-05,Software,SKU-1005,181.66,351.35,Direct,International

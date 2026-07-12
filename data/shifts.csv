@@ -1,0 +1,10 @@
+shift_id,shift_name,start_time,end_time,plant,supervisor
+1,Morning,06:00,14:00,Frankfurt,Allison Hill
+2,Afternoon,14:00,22:00,Frankfurt,Noah Rhodes
+3,Night,22:00,06:00,Frankfurt,Angie Henderson
+4,Morning,06:00,14:00,Cologne,Daniel Wagner
+5,Afternoon,14:00,22:00,Cologne,Cristian Santos
+6,Night,22:00,06:00,Cologne,Connie Lawrence
+7,Morning,06:00,14:00,Hamburg,Abigail Shaffer
+8,Afternoon,14:00,22:00,Hamburg,Gina Moore
+9,Night,22:00,06:00,Hamburg,Gabrielle Davis

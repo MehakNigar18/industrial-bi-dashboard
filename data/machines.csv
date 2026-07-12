@@ -1,0 +1,11 @@
+machine_id,machine_name,plant,production_line,machine_type,capacity_per_hour
+1,FRA-M1,Frankfurt,3,CNC Mill,56
+2,FRA-M2,Frankfurt,3,Assembly Robot,112
+3,FRA-M3,Frankfurt,1,Injection Molder,76
+4,FRA-M4,Frankfurt,3,CNC Mill,158
+5,COL-M1,Cologne,1,CNC Mill,73
+6,COL-M2,Cologne,1,Injection Molder,179
+7,COL-M3,Cologne,3,CNC Mill,193
+8,COL-M4,Cologne,1,Packaging Unit,106
+9,HAM-M1,Hamburg,2,Assembly Robot,51
+10,HAM-M2,Hamburg,1,Packaging Unit,137

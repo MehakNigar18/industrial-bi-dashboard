@@ -1,0 +1,16 @@
+cc_id,cost_centre_name,department,plant,budget_owner
+1,FRA-PROD,Production,Frankfurt,Ryan Munoz
+2,FRA-SALE,Sales,Frankfurt,Monica Herrera
+3,FRA-FINA,Finance,Frankfurt,Jamie Arnold
+4,FRA-CONT,Controlling,Frankfurt,Lisa Hensley
+5,FRA-LOGI,Logistics,Frankfurt,Michele Williams
+6,COL-PROD,Production,Cologne,Dylan Miller
+7,COL-SALE,Sales,Cologne,Brian Ramirez
+8,COL-FINA,Finance,Cologne,Holly Wood
+9,COL-CONT,Controlling,Cologne,Derek Zuniga
+10,COL-LOGI,Logistics,Cologne,Lisa Jackson
+11,HAM-PROD,Production,Hamburg,Carla Gray
+12,HAM-SALE,Sales,Hamburg,Margaret Hawkins DDS
+13,HAM-FINA,Finance,Hamburg,Patty Perez
+14,HAM-CONT,Controlling,Hamburg,Ethan Adams
+15,HAM-LOGI,Logistics,Hamburg,Tommy Walter
